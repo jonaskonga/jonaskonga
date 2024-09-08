@@ -1,4 +1,4 @@
-# :information_source: About Me 
+## :information_source: About Me 
 
 <a href="https://www.linkedin.com/in/jonas-konga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 [<img alt="prince-simba-portfolio | website" width="38px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]

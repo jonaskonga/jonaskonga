@@ -60,10 +60,10 @@ Please feel free to consult my rests and like with the stars...
 
 ---
 ## :fire: My Stats :
-![KariSims' GitHub stats](https://github-readme-stats.vercel.app/api?username=KariSims&show_icons=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KariSims&langs_count=8&layout=compact)](https://github.com/KariSims/github-readme-stats)
+![jonaskonga' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaskonga&show_icons=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskonga&langs_count=8&layout=compact)](https://github.com/jonaskonga/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KariSims&mode=weekly&card_width=770)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonaskonga&mode=weekly&card_width=770)](https://git.io/streak-stats)
 
 
 

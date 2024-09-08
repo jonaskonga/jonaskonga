@@ -1,11 +1,11 @@
-## :information_source: About Me 
+# :information_source: About Me 
 
-[<img align="left" alt="prince-simba | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/jonas-konga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 [<img alt="prince-simba-portfolio | website" width="38px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
 
   **Hi there, nice to meet you!** 👋
   
-  **I'm KariSims, Data Scientist
+  **I'm KONGA Jonas, Data Scientist
   
 I'm not really great at writing introductions, please bear with me
 I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and IT.
@@ -26,7 +26,7 @@ I assist individuals and companies in designing studies, including market resear
 ### :pushpin: IT skills :<br>
 :paperclip: Database design and management (Relational and NOSql) <br>
 :paperclip: Data Warehouse Management <br>
-:paperclip: Web and Mobile Programming(Ionic, Cordova) <br>
+:paperclip: Web Programming<br>
 :paperclip: Linux Shell <br>
 
 ### :pushpin: ML :<br>
@@ -75,5 +75,5 @@ Please feel free to consult my rests and like with the stars...
 
 
 
-[linkedin]: https://www.linkedin.com/in/jonas-konga/
+
 [web-site]: https://karisims.github.io/

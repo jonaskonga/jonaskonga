@@ -9,9 +9,10 @@
 
 With a strong background in <strong>Statistics</strong> and <strong>Big Data</strong>, I specialize in leveraging data to solve complex challenges, particularly in the fields of finance, health, and agriculture. My professional journey has led me to work on impactful projects in <strong>data engineering</strong> and <strong>data science</strong> across various industries, including <strong>AI startups</strong> and <strong>environmental engineering</strong>.
 Recent experiences include:
-
--Developing a <strong>Python-based scrapping</strong> solution for customer reviews and building a <strong>machine learning pipeline</strong> with <strong>Azure</strong> and <strong>Apache Spark</strong> for sentiment analysis at Mate AI.
--<strong>Automating data processes</strong> and creating performance indicators using Power BI and Python at SUEZ.
+<ul>
+<li>Developing a <strong>Python-based scrapping</strong> solution for customer reviews and building a <strong>machine learning pipeline</strong> with <strong>Azure</strong> and <strong>Apache Spark</strong> for sentiment analysis at Mate AI.</li>
+<li><strong>Automating data processes</strong> and creating performance indicators using Power BI and Python at SUEZ.</li>
+</ul>
 I'm passionate about helping businesses and individuals design data-driven solutions, from data collection to predictive modeling. Feel free to check out my projects or connect with me to collaborate!
   
 I'm not really great at writing introductions, please bear with me

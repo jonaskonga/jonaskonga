@@ -7,7 +7,12 @@
   
   **I'm KONGA Jonas, Data Scientist and Engineer.
 
-With a strong background in Statistics and Big Data, I specialize in leveraging data to solve complex challenges, particularly in the fields of finance, health, and agriculture. My professional journey has led me to work on impactful projects in data engineering and data science across various industries, including AI startups and environmental engineering.
+With a strong background in <strong>Statistics</strong> and Big Data, I specialize in leveraging data to solve complex challenges, particularly in the fields of finance, health, and agriculture. My professional journey has led me to work on impactful projects in data engineering and data science across various industries, including AI startups and environmental engineering.
+Recent experiences include:
+
+Developing a Python-based scrapping solution for customer reviews and building a machine learning pipeline with Azure and Apache Spark for sentiment analysis at Mate AI.
+-Automating data processes and creating performance indicators using Power BI and Python at SUEZ.
+-I'm passionate about helping businesses and individuals design data-driven solutions, from data collection to predictive modeling. Feel free to check out my projects or connect with me to collaborate!
   
 I'm not really great at writing introductions, please bear with me
 I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and Big Data.

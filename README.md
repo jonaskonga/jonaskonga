@@ -5,7 +5,9 @@
 
   **Hi there, nice to meet you!** 👋
   
-  **I'm KONGA Jonas, Data Scientist
+  **I'm KONGA Jonas, Data Scientist and Engineer.
+
+With a strong background in Statistics and Big Data, I specialize in leveraging data to solve complex challenges, particularly in the fields of finance, health, and agriculture. My professional journey has led me to work on impactful projects in data engineering and data science across various industries, including AI startups and environmental engineering.
   
 I'm not really great at writing introductions, please bear with me
 I'm an engineer / data scientist from Africa and an entrepreneur in my spare time. With an academic degree in Statistics and Big Data.

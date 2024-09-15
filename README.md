@@ -77,4 +77,4 @@ Please feel free to consult my rests and like with the stars...
 
 
 
-[web-site]: https://karisims.github.io/
+[web-site]: https://jonaskonga.github.io/Portfolio-jonas/

@@ -1,7 +1,7 @@
 ## :information_source: About Me 
 
 <a href="https://www.linkedin.com/in/jonas-konga/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-[<img alt="Jonas-konga-portfolio | website" width="38px" src="https://github.com/KariSims/KariSims/blob/main/website.svg" alt="web site Badge"/>][web-site]
+[<img alt="Jonas-konga-portfolio | website" width="38px" src="https://cdn-icons-png.flaticon.com/512/7606/7606205.png" alt="web site Badge"/>][web-site]
 
   **Hi there, nice to meet you!** 👋
   
